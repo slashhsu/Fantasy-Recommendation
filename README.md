@@ -20,6 +20,10 @@ A powerful Streamlit-based web app that integrates with **Yahoo Fantasy Basketba
 ![image](https://github.com/user-attachments/assets/6191c73d-009c-4b8c-92c0-5a25777a639d)
 ![image](https://github.com/user-attachments/assets/e2610ee8-79d0-4b0e-afad-ccfedb8d01e1)
 
+
+
+Hope everyone have fantastic expereice after using this and win your champion :) !!!
+
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/yourusername/fantasy-basketball-recommender.git
@@ -40,9 +44,11 @@ pip install -r requirements.txt
   
  * Save it in your project root as oauth.json
 
-######4. Run the App
+####4. Run the App
 
 streamlit run app.py
+
+
 
 
 
