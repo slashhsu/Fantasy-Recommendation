@@ -14,6 +14,11 @@ A powerful Streamlit-based web app that integrates with **Yahoo Fantasy Basketba
 - 🔒 **Secure Credentials Handling** via `oauth.json` and `.env`
 
 ## 🚀 Setup Instructions
+### Result ex:
+
+![image](https://github.com/user-attachments/assets/fe9ed061-57a7-4b37-b92c-aa1e02e544ce)
+![image](https://github.com/user-attachments/assets/6191c73d-009c-4b8c-92c0-5a25777a639d)
+![image](https://github.com/user-attachments/assets/e2610ee8-79d0-4b0e-afad-ccfedb8d01e1)
 
 ### 1. Clone this repository
 ```bash
@@ -39,13 +44,5 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-
-
-
-#######Result ex:
-
-![image](https://github.com/user-attachments/assets/fe9ed061-57a7-4b37-b92c-aa1e02e544ce)
-![image](https://github.com/user-attachments/assets/6191c73d-009c-4b8c-92c0-5a25777a639d)
-![image](https://github.com/user-attachments/assets/e2610ee8-79d0-4b0e-afad-ccfedb8d01e1)
 
 
