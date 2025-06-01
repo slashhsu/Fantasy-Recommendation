@@ -21,10 +21,10 @@ git clone https://github.com/yourusername/fantasy-basketball-recommender.git
 cd fantasy-basketball-recommender
 
 
-### 2. Install Dependencies
+#### 2. Install Dependencies
 
 pip install -r requirements.txt
-3. Yahoo OAuth Setup
+#####3. Yahoo OAuth Setup
   *Visit the Yahoo Developer Console
   
   *Create a new project and app
@@ -35,14 +35,14 @@ pip install -r requirements.txt
   
  * Save it in your project root as oauth.json
 
-###4. Run the App
+######4. Run the App
 
 streamlit run app.py
 
 
 
 
-Result ex:
+#######Result ex:
 
 ![image](https://github.com/user-attachments/assets/fe9ed061-57a7-4b37-b92c-aa1e02e544ce)
 ![image](https://github.com/user-attachments/assets/6191c73d-009c-4b8c-92c0-5a25777a639d)
