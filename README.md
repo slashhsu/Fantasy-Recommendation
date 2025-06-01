@@ -30,9 +30,22 @@ pip install -r requirements.txt
   *Create a new project and app
   
   *Download the credentials file
+
+
   
  * Save it in your project root as oauth.json
 
 ###4. Run the App
 
 streamlit run app.py
+
+
+
+
+Result ex:
+
+![image](https://github.com/user-attachments/assets/fe9ed061-57a7-4b37-b92c-aa1e02e544ce)
+![image](https://github.com/user-attachments/assets/6191c73d-009c-4b8c-92c0-5a25777a639d)
+![image](https://github.com/user-attachments/assets/e2610ee8-79d0-4b0e-afad-ccfedb8d01e1)
+
+
