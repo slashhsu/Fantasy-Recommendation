@@ -22,7 +22,7 @@ A powerful Streamlit-based web app that integrates with **Yahoo Fantasy Basketba
 
 
 
-We hope you have an amazing experience using this tool—and that it helps you dominate your league and bring home the championship! 🏆🔥
+We hope you have an amazing experience using this tool, and that it helps you dominate your league and bring home the championship! 🏆🔥
 
 ### 1. Clone this repository
 ```bash
