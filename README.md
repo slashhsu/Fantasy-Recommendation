@@ -1,6 +1,6 @@
 # 🏀 Fantasy Basketball Free Agent Recommender
 
-A powerful Streamlit-based web app that integrates with **Yahoo Fantasy Basketball** to help you identify and recommend the best **free agents** based on **custom scoring preferences**, recent performance, and your latest matchup data.
+A powerful Streamlit-based web app that integrates with **Yahoo Fantasy Basketball** to help you identify and recommend the best **free players** based on **custom scoring preferences**, recent performance, and your latest matchup data.
 
 ## 🔥 Features
 
